@@ -2,7 +2,7 @@
 
  The purpose of this protocol is to clarify the basic requirements for both unlabelled (natural-abundance) and uniform ^15^N-labelled protein for folding analysis by NMR.
 
-## **Unlabelled protein preparation**
+## Unlabelled protein preparation
 
 ### Prior to set-up
 
