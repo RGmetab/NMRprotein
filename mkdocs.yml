@@ -6,7 +6,7 @@ site_url: https://rgmetab.github.io/NMRprotein/
 theme:
   name: material
   language: en
-#  favicon: logo.png
+  favicon: logo.png
 #  logo: logo.png
   colorscheme: github
   highlightjs: true
