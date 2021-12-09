@@ -2,7 +2,7 @@
 
 The purpose of this protocol is to demonstrate how to match an in-house ^1^H ^15N^ HSQC Protein spectrum to annotation downloaded in star format (.str) from the BMRB.
 
-Youtube demos available [here](www.tinyurl/nmrbox).
+Youtube demos available [here](https://www.tinyurl.com/nmrbox).
 
 ## Download .str from BMRB
 
