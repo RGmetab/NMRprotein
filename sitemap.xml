@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://rgmetab.github.io/NMRprotein/</loc>
+         <lastmod>2021-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://rgmetab.github.io/NMRprotein/Protein%20Characterisation/Folding%20Analysis/</loc>
+         <lastmod>2021-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://rgmetab.github.io/NMRprotein/Protein%20Characterisation/Ligand%20Screening/</loc>
+         <lastmod>2021-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://rgmetab.github.io/NMRprotein/Protein%20Characterisation/Matching%20BMRB%20Peaks/</loc>
+         <lastmod>2021-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
